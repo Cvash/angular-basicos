@@ -39,3 +39,25 @@
   .p-1 {
     padding: 1px;
   }
+/* Dragon Ball Z */
+  .row {
+    display: flex;
+  }
+
+  .col {
+    flex-grow: 1;
+    margin-right: 10px;
+  }
+
+  input {
+    display: block;
+    margin: 5px;
+  }
+
+  form {
+    border: 1px solid #000;
+    border-radius: 5px;
+    background-color: #777;
+  }
+
+  /* Fin de Dragon Ball Z */

@@ -1,4 +1,5 @@
 import { NgModule } from '@angular/core';
+
 import { contadorComponent } from './contador/contador.component';
 
 @NgModule({
